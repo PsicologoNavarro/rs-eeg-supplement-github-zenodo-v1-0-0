@@ -1,10 +1,10 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated article and this archived release."
 title: "Supplementary material for Exploratory resting-state EEG associations with anxiety and perceived social support in two distinct samples"
-version: "v1.0.1"
+version: "1.0.3"
 date-released: "2026-07-29"
 type: dataset
-license: "cc-zero"
+license: "CC0-1.0"
 authors:
   - family-names: "Navarro-Nolasco"
     given-names: "Diego A."
