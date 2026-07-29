@@ -1,0 +1,25 @@
+G*Power — cálculo a priori del tamaño muestral
+
+Test family: F tests
+Statistical test: Linear multiple regression: Fixed model, R² increase
+Type of power analysis: A priori — Compute required sample size
+
+Input
+Effect size f² = 0.35
+α err prob = 0.05
+Power (1-β err prob) = 0.80
+Number of tested predictors = 1
+Total number of predictors = 3
+
+Output
+Noncentrality parameter λ = 8.7500000
+Critical F = 4.3247937
+Numerator df = 1
+Denominator df = 21
+Total sample size = 25
+Actual power = 0.8052506
+
+Interpretación para el manuscrito
+El cálculo corresponde al incremento de R² atribuible al predictor probado en el modelo
+de regresión lineal múltiple. La muestra analítica de 25 participantes alcanzó el tamaño
+requerido.

@@ -1,0 +1,58 @@
+{
+  "local": {
+    "stage": "03_eeg_qc_frozen",
+    "psychometric_data_read": false,
+    "record_count": 50,
+    "included_records": 50,
+    "excluded_records": 0,
+    "included_subjects": 25,
+    "window_definition": {
+      "n_window": 475,
+      "step_samples": 237,
+      "n_overlap": 238,
+      "n_fft": 475
+    },
+    "analytic_psd_calls": 13643,
+    "rejected_windows_with_analytic_psd": 0,
+    "zscore_warnings": [],
+    "hashes": {
+      "data\\processed\\psd_window_level.parquet": "0e64a910d97b3f4d89ba60d30762e0331178cd59d2395e5ca5ced6c4aa9a72c3",
+      "results\\qc\\window_qc.csv": "0f75d1da7e2fcfe9b11080b9215f7cff578f12076cc2e0bb9808395968b513ea",
+      "results\\qc\\record_qc.csv": "e9e91af06cae751a86babc7d9f97d95cc099ee9826259cf5c534eabfab53c5a5",
+      "results\\tables\\psd_parameters_exact.csv": "d01a045dedbbb5ebf45b8c0231108951c3a8baf68dcb5a88a485aefa439802a4",
+      "results\\tables\\psd_aggregation_qc.csv": "6cb5deb8488dacacfb7d7778b50b595fb289d0021ff2c9be6ef1faaa617d1a06",
+      "results\\qc\\exclusions.csv": "3f2d25dcc5d185f1dc51e31de2fb769d5aecbae9900a77445bbb39e31fb73dde",
+      "data\\processed\\eeg_subject_condition_wide.parquet": "3cf22c4bf0486219f032c5191c813eec299848db84cb7b34a5b7eb0241899b34",
+      "data\\processed\\eeg_subject_condition_wide.csv": "80a1e056ff19b39a063ad947acd2f46aa3e88051fd5751bc615a02f3ddf3371c"
+    }
+  },
+  "lemon_preprocess": {
+    "channel_qc_rows": 10432,
+    "files_error": 0,
+    "files_missing_channels": 0,
+    "files_pass": 326,
+    "files_seen": 326,
+    "files_skipped_existing": 0,
+    "ica_component_rows": 4890
+  },
+  "lemon_features": {
+    "bandpower_rows": 20864,
+    "block_qc_rows": 166912,
+    "local_feature_rows": 25,
+    "participants_pass": 155,
+    "participants_pass_with_missing_features": 8,
+    "participants_seen": 163,
+    "primary_feature_count": 180,
+    "source_feature_rows": 138
+  },
+  "lemon_cohort_flow": {
+    "n_eligible": 147,
+    "n_excluded": 80,
+    "n_ids_seen": 227,
+    "reasons": {
+      "age_not_20_35": 75,
+      "missing_mspss_total": 7,
+      "missing_stai_trait": 7
+    }
+  }
+}

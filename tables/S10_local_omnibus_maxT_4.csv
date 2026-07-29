@@ -1,0 +1,5 @@
+analysis_family,analysis_label,observed_max_abs_t,exceedances,p_omnibus_maxT_family,observed_total_selected_features,observed_networks
+OC,Ojos cerrados,2.2353477582467565,4073,0.4073592640735926,31,1
+OA,Ojos abiertos,2.096540265150676,5865,0.5865413458654135,2,1
+DELTA_OC_MINUS_OA,Reactividad OC−OA,3.317271945073684,1464,0.1464853514648535,18,6
+GLOBAL_30,"Tres familias, 30 combinaciones",3.317271945073684,1788,0.1788821117888211,51,8

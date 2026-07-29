@@ -1,0 +1,10 @@
+family,tests,nominal_p_lt_05,permutation_p_lt_05,hc3_and_permutation_p_lt_05,bh_q_lt_10,maxT_p_lt_05,interpretation
+Local bivariate correlations,576,0,0,—,0,0,No local bivariate signal
+Local channel–band moderation,1920,51,—,—,0,—,51 nominal; none survived FDR
+Local spatial aggregation,750,17,—,—,0,—,No aggregated model survived FDR
+Selection-aware signature combinations,30,8,1,—,0,0,No selection-aware signature survived
+External signature×moderator,112,9,9,6,0,0,No corrected external moderation
+External target×moderator,700,55,53,42,0,0,No corrected external moderation
+External matched signature main effects,8,5,5,—,5,1,NET03 was the only maxT<.05 result
+External matched target main effects,50,26,26,—,26,2,T8 and Fp2 alpha EC−EO survived maxT
+Post hoc all signatures versus MSPSS,8,6,6,—,6,3,Post hoc; not confirmatory

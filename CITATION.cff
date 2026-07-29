@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated article and this archived release."
+title: "Supplementary material for Exploratory resting-state EEG associations with anxiety and perceived social support in two distinct samples"
+version: "1.0.0"
+date-released: "2026-07-28"
+type: dataset
+authors:
+  - family-names: "Navarro-Nolasco"
+    given-names: "Diego A."
+    orcid: "https://orcid.org/0009-0006-1810-8206"
+  - family-names: "Martínez"
+    given-names: "Armando J."
+    orcid: "https://orcid.org/0000-0002-1248-2516"
+  - family-names: "Beltrán-Parrazal"
+    given-names: "Luis"
+    orcid: "https://orcid.org/0000-0002-4765-9051"
+  - family-names: "López-Meraz"
+    given-names: "María Leonor"
+    orcid: "https://orcid.org/0000-0003-0179-989X"
+  - family-names: "Olmos-Pastoresa"
+    given-names: "Carol Alejandra"
+  - family-names: "Morgado-Valle"
+    given-names: "Consuelo"
+    orcid: "https://orcid.org/0000-0003-0158-7096"
+keywords:
+  - resting-state EEG
+  - spectral power
+  - permutation inference
+  - perceived social support
+  - anxiety
