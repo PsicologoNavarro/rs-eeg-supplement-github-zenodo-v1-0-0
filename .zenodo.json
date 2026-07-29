@@ -1,0 +1,22 @@
+{
+  "title": "Upload-ready supplementary archive",
+  "description": "Supplementary material for Exploratory resting-state EEG associations with anxiety and perceived social support in two distinct samples",
+  "creators": [
+    {"name": "Navarro-Nolasco, Diego A.", "orcid": "0009-0006-1810-8206"},
+    {"name": "Martínez, Armando J.", "orcid": "0000-0002-1248-2516"},
+    {"name": "Beltrán-Parrazal, Luis", "orcid": "0000-0002-4765-9051"},
+    {"name": "López-Meraz, María Leonor", "orcid": "0000-0003-0179-989X"},
+    {"name": "Olmos-Pastoresa, Carol Alejandra"},
+    {"name": "Morgado-Valle, Consuelo", "orcid": "0000-0003-0158-7096"}
+  ],
+  "keywords": [
+    "resting-state EEG",
+    "spectral power",
+    "permutation inference",
+    "perceived social support",
+    "anxiety"
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero"
+}

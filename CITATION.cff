@@ -4,6 +4,7 @@ title: "Supplementary material for Exploratory resting-state EEG associations wi
 version: "1.0.0"
 date-released: "2026-07-28"
 type: dataset
+license: "cc-zero"
 authors:
   - family-names: "Navarro-Nolasco"
     given-names: "Diego A."
