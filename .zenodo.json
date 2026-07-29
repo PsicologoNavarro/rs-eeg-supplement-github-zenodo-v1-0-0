@@ -18,5 +18,7 @@
   ],
   "upload_type": "dataset",
   "access_right": "open",
-  "license": "cc-zero"
+  "license": "cc-zero",
+  "version": "v1.0.1",
+  "publication_date": "2026-07-29"
 }
